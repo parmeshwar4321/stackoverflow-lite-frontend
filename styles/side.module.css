@@ -1,0 +1,23 @@
+.nav {
+
+
+    display: flex;
+    align-items: flex-start;
+    margin: 10px;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    width: max-content;
+    border-right: 2px solid #eaeaea;
+
+}
+
+
+.title {
+    color: #0070f3;
+    text-decoration: none;
+    margin: 0;
+    text-align: center;
+    line-height: 1.15;
+    cursor: pointer;
+}
